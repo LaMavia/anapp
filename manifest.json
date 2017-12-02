@@ -8,7 +8,7 @@
       "type": "image/x-icon"
     }
   ],
-  "homepage": "https://lastshadowpl.github.io/anapp",
+  "homepage": "https://lastshadowpl.github.io/anapp/",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
